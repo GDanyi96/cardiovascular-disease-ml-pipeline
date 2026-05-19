@@ -1,0 +1,14 @@
+hyperopt
+jupyter
+kagglehub
+lightgbm
+matplotlib
+numpy
+pandas
+plotly
+scikit-learn
+scikit-optimize
+seaborn
+sweetviz
+tensorflow
+xgboost
